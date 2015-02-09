@@ -1,6 +1,6 @@
 {
   "name": "is_primitive",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "is_primitive for the browser and node.js",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "is_null_or_undefined": "nathanfaucett/is_null_or_undefined"
+    "is_null_or_undefined": ""
   }
 }
