@@ -21,6 +21,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "is_null_or_undefined": ""
+    "is_null_or_undefined": "git://github.com/nathanfaucett/is_null_or_undefined"
   }
 }
