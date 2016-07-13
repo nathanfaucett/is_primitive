@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/is_primitive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "checks if value is primitive",
   "repository": {
     "type": "git",
