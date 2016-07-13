@@ -29,6 +29,6 @@
     "zuul": "^3.0.0"
   },
   "dependencies": {
-    "is_null_or_undefined": "git://github.com/nathanfaucett/is_null_or_undefined"
+    "@nathanfaucett/is_null_or_undefined": "^0.0.1"
   }
 }
